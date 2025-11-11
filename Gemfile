@@ -54,6 +54,7 @@ group :development, :test do
   gem 'rubocop'
   gem 'rubocop-rails'
   gem 'ruby_audit'
+  gem 'pg'
 end
 
 group :development do
